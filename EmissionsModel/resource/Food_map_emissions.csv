@@ -1,0 +1,224 @@
+Key,Value1,Value2
+"Hummus, commercial",0,1.34
+"Tomatoes, grape, raw",1,2.09
+"Beans, snap, green, canned, regular pack, drained solids",2,1.34
+"Frankfurter, beef, unheated",3,99.48
+"Nuts, almonds, dry roasted, with salt added",4,0.43
+"Kale, raw",5,0.53
+"Egg, whole, raw, frozen, pasteurized",6,4.67
+"Egg, white, raw, frozen, pasteurized",7,4.67
+"Egg, white, dried",8,4.67
+"Onion rings, breaded, par fried, frozen, prepared, heated in oven",9,0.77
+"Pickles, cucumber, dill or kosher dill",10,0.85
+"Cheese, parmesan, grated",11,23.88
+"Cheese, pasteurized process, American, vitamin D fortified",12,23.88
+"Grapefruit juice, white, canned or bottled, unsweetened",13,1.05
+"Peaches, yellow, raw",14,1.05
+"Seeds, sunflower seed kernels, dry roasted, with salt added",15,1.93
+"Bread, white, commercially prepared",16,0.88
+"Kale, frozen, cooked, boiled, drained, without salt",17,0.53
+"Mustard, prepared, yellow",18,0.53
+"Kiwifruit, green, raw",19,1.05
+"Nectarines, raw",20,1.05
+"Cheese, cheddar",21,23.88
+"Cheese, cottage, lowfat, 2% milkfat",22,23.88
+"Cheese, mozzarella, low moisture, part-skim",23,23.88
+"Egg, whole, dried",24,4.67
+"Egg, yolk, raw, frozen, pasteurized",25,4.67
+"Egg, yolk, dried",26,4.67
+"Yogurt, Greek, plain, nonfat",27,3.11
+"Yogurt, Greek, strawberry, nonfat",28,3.11
+"Oil, coconut",29,0.53
+"Chicken, broilers or fryers, drumstick, meat only, cooked, braised",30,9.87
+"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",31,9.87
+"Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",33,12.31
+"Olives, green, Manzanilla, stuffed with pimiento",34,0.53
+"Cookies, oatmeal, soft, with raisins",35,3.36
+"Tomatoes, canned, red, ripe, diced",36,2.09
+"Fish, haddock, raw",37,13.63
+"Fish, pollock, raw",38,13.63
+"Fish, tuna, light, canned in water, drained solids",39,13.63
+"Bread, whole-wheat, commercially prepared",43,0.88
+"Beef, loin, tenderloin roast, separable lean only, boneless, trimmed to 0"" fat, select, cooked, roasted",44,99.48
+"Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8"" fat, choice, raw",45,99.48
+"Beef, round, eye of round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw",46,99.48
+"Beef, round, top round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw",47,99.48
+"Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8"" fat, select, raw",48,99.48
+"Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8"" fat, choice, cooked, grilled",49,99.48
+"Carrots, frozen, unprepared",50,0.94
+"Cheese, dry white, queso seco",51,23.88
+"Cheese, ricotta, whole milk",52,23.88
+"Cheese, swiss",53,23.88
+"Figs, dried, uncooked",54,1.05
+"Lettuce, cos or romaine, raw",55,4.93
+"Melons, cantaloupe, raw",56,1.06
+"Oranges, raw, navels",57,0.47
+"Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",58,3.15
+"Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",62,3.15
+"Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",64,3.15
+"Sausage, breakfast sausage, beef, pre-cooked, unprepared",65,99.48
+"Sausage, Italian, pork, mild, cooked, pan-fried",66,12.31
+"Sausage, pork, chorizo, link or ground, cooked, pan-fried",67,12.31
+"Milk, whole, 3.25% milkfat, with added vitamin D",68,3.15
+"Sausage, turkey, breakfast links, mild, raw",69,9.87
+"Sugars, granulated",70,3.2
+"Turkey, ground, 93% lean, 7% fat, pan-broiled crumbles",71,9.87
+"Ham, sliced, restaurant",72,12.31
+"Cheese, American, restaurant",73,23.88
+"Beans, Dry, Medium Red (0% moisture)",74,1.37
+"Beans, Dry, Red (0% moisture)",75,1.37
+"Beans, Dry, Flor de Mayo (0% moisture)",76,1.37
+"Beans, Dry, Brown (0% moisture)",77,1.37
+"Beans, Dry, Tan (0% moisture)",78,1.37
+"Beans, Dry, Light Tan (0% moisture)",79,1.37
+"Beans, Dry, Carioca (0% moisture)",80,1.37
+"Beans, Dry, Cranberry (0% moisture)",81,1.37
+"Beans, Dry, Light Red Kidney (0% moisture)",82,1.37
+"Beans, Dry, Pink (0% moisture)",83,1.37
+"Beans, Dry, Dark Red Kidney (0% moisture)",84,1.37
+"Beans, Dry, Navy (0% moisture)",85,1.37
+"Beans, Dry, Small White (0% moisture)",86,1.37
+"Beans, Dry, Small Red (0% moisture)",87,1.37
+"Beans, Dry, Black (0% moisture)",88,1.37
+"Beans, Dry, Pinto (0% moisture)",89,1.37
+"Beans, Dry, Great Northern (0% moisture)",90,1.37
+"Broccoli, raw",91,0.9
+"Ketchup, restaurant",92,2.61
+"Eggs, Grade A, Large, egg white",93,4.67
+"Eggs, Grade A, Large, egg yolk",94,4.67
+"Oil, olive, extra virgin",98,5.18
+"Eggs, Grade A, Large, egg whole",99,4.67
+"Butter, stick, unsalted",101,3.32
+"Flour, wheat, all-purpose, enriched, bleached",102,1.57
+"Flour, wheat, all-purpose, enriched, unbleached",103,1.57
+"Flour, wheat, all-purpose, unenriched, unbleached",104,1.57
+"Butter, stick, salted",109,3.32
+"Onions, red, raw",110,0.5
+"Onions, yellow, raw",111,0.5
+"Garlic, raw",112,0.53
+"Flour, rice, brown",115,4.45
+"Flour, rice, glutinous",116,4.45
+"Flour, pastry, unenriched, unbleached",117,1.57
+"Onions, white, raw",118,0.5
+"Bananas, overripe, raw",119,0.86
+"Bananas, ripe and slightly ripe, raw",120,0.86
+"Apples, red delicious, with skin, raw",121,0.43
+"Apples, fuji, with skin, raw",122,0.43
+"Apples, gala, with skin, raw",123,0.43
+"Apples, granny smith, with skin, raw",124,0.43
+"Apples, honeycrisp, with skin, raw",125,0.43
+"Oil, sunflower",127,3.66
+"Oil, olive, extra light",129,5.18
+"Mushroom, lion's mane",130,2.35
+"Mushroom, oyster",131,2.35
+"Mushrooms, shiitake",132,2.35
+"Mushrooms, white button",133,2.35
+"Soy milk, unsweetened, plain, shelf stable",134,0.98
+"Almond milk, unsweetened, plain, shelf stable",135,0.66
+"Spinach, baby",136,1.01
+"Spinach, mature",137,1.01
+"Tomato, roma",138,2.09
+"Apple juice, with added vitamin C, from concentrate, shelf stable",143,0.46
+"Orange juice, no pulp, not fortified, from concentrate, refrigerated",144,0.49
+"Grapefruit juice, red, not fortified, not from concentrate, refrigerated",148,0.49
+"Tomato juice, with added ingredients, from concentrate, shelf stable",149,2.09
+"Orange juice, no pulp, not fortified, not from concentrate, refrigerated",150,0.49
+"Mushroom, portabella",151,2.35
+"Mushroom, king oyster",152,2.35
+"Mushroom, enoki",153,2.35
+"Mushroom, crimini",154,2.35
+"Mushroom, maitake",155,2.35
+"Mushroom, beech",156,2.35
+"Mushroom, pioppini",157,2.35
+"Soy milk, sweetened, plain, refrigerated",158,0.98
+"Almond milk, unsweetened, plain, refrigerated",159,0.66
+"Oat milk, unsweetened, plain, refrigerated",160,0.45
+"Carrots, mature, raw",161,0.94
+"Carrots, baby, raw",162,0.94
+"Peppers, bell, green, raw",163,0.92
+"Peppers, bell, yellow, raw",164,0.92
+"Peppers, bell, red, raw",165,0.92
+"Peppers, bell, orange, raw",166,0.92
+"Yogurt, plain, whole milk",168,3.11
+"Yogurt, Greek, plain, whole milk",169,3.11
+"Cheese, parmesan, grated, refrigerated",170,23.88
+"Cheese, feta, whole milk, crumbled",171,23.88
+"Flour, almond",172,0.43
+"Flour, oat, whole grain",173,2.48
+"Flour, potato",174,0.46
+"Peanut butter, creamy",175,3.43
+"Almond butter, creamy",177,0.39
+"Cottage cheese, full fat, large or small curd",179,25.28
+"Lettuce, iceberg, raw",183,4.93
+"Lettuce, romaine, green, raw",184,4.93
+"Lettuce, leaf, red, raw",185,4.93
+"Lettuce, leaf, green, raw",186,4.93
+"Nuts, pine nuts, raw",187,0.43
+"Nuts, almonds, whole, raw",188,0.43
+"Nuts, walnuts, English, halves, raw",189,0.43
+"Nuts, pecans, halves, raw",190,0.43
+"Oats, whole grain, rolled, old fashioned",191,2.48
+"Oats, whole grain, steel cut",192,2.48
+"Pineapple, raw",193,0.93
+"Cherries, sweet, dark red, raw",194,1.05
+"Beans, snap, green, raw",195,1.37
+"Potatoes, russet, without skin, raw",196,0.46
+"Potatoes, red, without skin, raw",197,0.46
+"Potatoes, gold, without skin, raw",198,0.46
+"Sweet potatoes, orange flesh, without skin, raw",199,0.46
+"Celery, raw",200,0.53
+"Cucumber, with peel, raw",201,0.85
+"Cabbage, green, raw",202,0.89
+"Cabbage, red, raw",203,0.89
+"Strawberries, raw",204,3.24
+"Raspberries, raw",205,8.37
+"Blueberries, raw",206,1.05
+"Grapes, red, seedless, raw",207,8.28
+"Grapes, green, seedless, raw",208,8.28
+"Applesauce, unsweetened, with added vitamin C",209,0.43
+"Flour, rye",214,1.57
+"Flour, barley",215,1.18
+"Rice, brown, long grain, unenriched, raw",219,4.45
+"Rice, white, long grain, unenriched, raw",220,4.45
+"Beef, ground, 90% lean meat / 10% fat, raw",221,99.48
+"Beef, ground, 80% lean meat / 20% fat, raw",222,99.48
+"Pork, ground, raw",223,12.31
+"Chicken, ground, with additives, raw",224,9.87
+"Turkey, ground, 93% lean/ 7% fat, raw",225,9.87
+"Nuts, brazilnuts, raw",226,0.43
+"Nuts, cashew nuts, raw",227,0.43
+"Nuts, hazelnuts or filberts, raw",228,0.43
+"Peanuts, raw",229,3.15
+"Nuts, macadamia nuts, raw",231,0.43
+"Nuts, pistachio nuts, raw",232,0.43
+"Seeds, pumpkin seeds (pepitas), raw",233,1.32
+"Seeds, sunflower seed, kernel, raw",234,1.93
+"Beans, cannellini, dry",236,1.37
+"Chickpeas, (garbanzo beans, bengal gram), dry",237,1.34
+"Lentils, dry",238,2.54
+"Blackeye pea, dry",239,0.98
+"Beans, black, canned, sodium added, drained and rinsed",240,1.37
+"Beans, navy, canned, sodium added, drained and rinsed",241,1.37
+"Beans, cannellini, canned, sodium added, drained and rinsed",242,1.37
+"Chickpeas (garbanzo beans, bengal gram), canned, sodium added, drained and rinsed",243,1.34
+"Beans, kidney, dark red, canned, sodium added, sugar added, drained and rinsed",244,1.37
+"Beans, kidney, light red, canned, sodium added, sugar added, drained and rinsed",245,1.37
+"Peas, green, sweet, canned, sodium added, sugar added, drained and rinsed",246,0.98
+"Beans, pinto, canned, sodium added, drained and rinsed",247,1.37
+"Blackeye pea, canned, sodium added, drained and rinsed",248,0.98
+"Beans, great northern, canned, sodium added, drained and rinsed",249,1.37
+"Pork, loin, boneless, raw",250,12.31
+"Pork, loin, tenderloin, boneless, raw",251,12.31
+"Chicken, breast, boneless, skinless, raw",252,9.87
+"Chicken, thigh, boneless, skinless, raw",253,9.87
+"Beef, ribeye, steak, boneless, choice, raw",254,99.48
+"Beef, round, top round, boneless, choice, raw",255,99.48
+"Beef, chuck, roast, boneless, choice, raw",256,99.48
+"Beef, flank, steak, boneless, choice, raw",257,99.48
+"Yogurt, plain, nonfat",258,3.11
+"Cheese, monterey jack, solid",259,23.88
+"Cheese, pasteurized process cheese food or product, American, singles",260,23.88
+"Cheese, provolone, sliced",261,23.88
+"Cheese, oaxaca, solid",262,23.88
+"Cheese, queso fresco, solid",263,23.88
+"Cheese, cotija, solid",264,23.88
